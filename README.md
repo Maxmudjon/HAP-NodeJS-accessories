@@ -1,0 +1,1 @@
+This accessory for HAP-NodeJS.
